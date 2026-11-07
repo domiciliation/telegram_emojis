@@ -17,6 +17,50 @@
 ## Emoji Gallery
 Browse the entire collection below. All images are displayed directly from their folders.
 
+### utya duck
+
+<p align="left">
+<img src="utya_duck/1.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/2.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/3.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/4.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/5.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/6.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/7.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/8.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/9.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/10.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/12.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/13.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/14.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/15.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/16.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/17.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/18.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/19.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/20.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/21.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/22.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/23.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/24.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/25.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/26.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/27.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/28.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/29.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/30.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/31.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/32.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/33.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/34.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/35.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/36.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/37.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/38.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/39.webp" width="64" alt="Telegram emoji" />
+<img src="utya_duck/40.webp" width="64" alt="Telegram emoji" />
+</p>
+
 ### activities
 
 <p align="left">

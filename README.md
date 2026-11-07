@@ -19,7 +19,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### activities
 
-<p align="center">
+<p align="left">
 <img src="activities/00730b67857cb8d1a0fec0a883a17b.webp" width="64" alt="Telegram emoji" />
 <img src="activities/0cad5d057be3026c38f5d014b185c7.webp" width="64" alt="Telegram emoji" />
 <img src="activities/0d58be3dd9c43328d51bda622b82fc.webp" width="64" alt="Telegram emoji" />
@@ -50,7 +50,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### animals_nature
 
-<p align="center">
+<p align="left">
 <img src="animals_nature/01edc78e7033b47f79f4280aec0f9c.webp" width="64" alt="Telegram emoji" />
 <img src="animals_nature/01f4efe8dba09f88f7e70242f1c974.webp" width="64" alt="Telegram emoji" />
 <img src="animals_nature/03785ca36e06ef7875087ed82d7e09.webp" width="64" alt="Telegram emoji" />
@@ -144,7 +144,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### body_people
 
-<p align="center">
+<p align="left">
 <img src="body_people/00a3d0828c6eb927ad8118788fb947.webp" width="64" alt="Telegram emoji" />
 <img src="body_people/023be2b14c490bb583e26c38b27976.webp" width="64" alt="Telegram emoji" />
 <img src="body_people/065436ebadebaecf25c744d6283c5e.webp" width="64" alt="Telegram emoji" />
@@ -236,7 +236,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### flags
 
-<p align="center">
+<p align="left">
 <img src="flags/02757b5b02865f6d02ee45b4e97512.webp" width="64" alt="Telegram emoji" />
 <img src="flags/070cb9e99c04ad1264d3653156eedf.webp" width="64" alt="Telegram emoji" />
 <img src="flags/081bcd1e6bf9bc45bf601a3b6a24d6.webp" width="64" alt="Telegram emoji" />
@@ -311,7 +311,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### food_drink
 
-<p align="center">
+<p align="left">
 <img src="food_drink/0740c2ddf236bc15002ca2012ca5f7.webp" width="64" alt="Telegram emoji" />
 <img src="food_drink/078e2248e7d7f3cbe0fae8591e822a.webp" width="64" alt="Telegram emoji" />
 <img src="food_drink/0a282257fce6876bcc89be02e86edc.webp" width="64" alt="Telegram emoji" />
@@ -364,7 +364,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### objects
 
-<p align="center">
+<p align="left">
 <img src="objects/00657b19ad504d9a112f090a7d2304.webp" width="64" alt="Telegram emoji" />
 <img src="objects/00839b8a16127119218d821ed99fb1.webp" width="64" alt="Telegram emoji" />
 <img src="objects/03bc766a54d528b5e7c97113d900a5.webp" width="64" alt="Telegram emoji" />
@@ -434,7 +434,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### smileys_emotion
 
-<p align="center">
+<p align="left">
 <img src="smileys_emotion/01e3a758bc71e8bfa343742d16ad55.webp" width="64" alt="Telegram emoji" />
 <img src="smileys_emotion/038d1d7ef174b1317c59a238b978a1.webp" width="64" alt="Telegram emoji" />
 <img src="smileys_emotion/069c74126e21ec4e280914e1cada8f.webp" width="64" alt="Telegram emoji" />
@@ -593,7 +593,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### symbols
 
-<p align="center">
+<p align="left">
 <img src="symbols/06768703daefe13f03af3432917a8b.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/181bbf67b6b553704f099658d8b12b.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/1ca7e28dae45745424eb089583472a.webp" width="64" alt="Telegram emoji" />
@@ -633,7 +633,7 @@ Browse the entire collection below. All images are displayed directly from their
 
 ### travel_places
 
-<p align="center">
+<p align="left">
 <img src="travel_places/02e135b80d9dd99381c687d7549e14.webp" width="64" alt="Telegram emoji" />
 <img src="travel_places/03c70e272f4ddc6a08f0d74a5e926b.webp" width="64" alt="Telegram emoji" />
 <img src="travel_places/094c20c6d33e681d347185dd8627a6.webp" width="64" alt="Telegram emoji" />

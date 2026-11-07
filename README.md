@@ -1,8 +1,15 @@
 # Telegram Emojis Collection
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Telegram-Emoji0Collection-26A5E4?style=for-the-badge^" />
-  <img src="https://img.shields.io/badge/Categories-9-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telegram-Emoji%20Collection-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Categories-9-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Format-WEBP-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <strong>A collection of Telegram emoji images, organized into 9 categories.</strong>
+  <br>
+  Browse, explore and use your favorite emojis!
 </p>
 
 <p align="center">

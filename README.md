@@ -12,14 +12,9 @@
   Browse, explore and use your favorite emojis!
 </p>
 
-<p align="center">
-  A complete collection of Telegram emojis, organized into categories.
-</p>
-
 ---
 
 ## Emoji Gallery
-
 Browse the entire collection below. All images are displayed directly from their folders.
 
 ### activities

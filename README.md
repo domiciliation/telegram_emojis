@@ -595,40 +595,45 @@ Browse the entire collection below. All images are displayed directly from their
 
 <p align="left">
 <img src="symbols/06768703daefe13f03af3432917a8b.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/181bbf67b6b553704f099658d8b12b.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/1ca7e28dae45745424eb089583472a.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/9527357d358f01bf5ca4312d3d6364.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/2b110778c167ff8eae95003be4dd61.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/37c5eb6db60e2a86bb0019c8495d78.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/3a65fdda8169c9712b424ad9fd34d1.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/3c626925499ce0a455bcdd651cf3b0.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/4585d0fd8c99496114cffb16c72e41.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/4c0d6dc0fb0bb61b7e707f02490be2.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/55ccb7d9c71b8610f0dd322da730f4.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/605a5f4833ed7b6cea70edf7920a52.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/606907e98c2863461c97f3675b9491.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/75c4619e05b79ee3fba28504927fd4.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/789e28fe00cf055bc31b52e46c0e11.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/8da6c0829afd667f2f40fb26a9f250.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/8649de456653862f2e8ed645c6fa43.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/8839c6783fa354eec2179fc3b91ea3.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/8bbee7a8432ded65e875e52ab6331d.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/8da6c0829afd667f2f40fb26a9f250.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/9527357d358f01bf5ca4312d3d6364.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/9d57fdebb80e1e4cd820a07e2109c0.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/9db9e099d79c15a064797f33d3d1bc.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/a545faca9de7fea054cffec52bfaf3.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/a7a789e52c5edf74557b9336dd3375.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/a920efac4178e068960764b7e27ae6.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/b28d3b1715e6347a6e68e5bce6e55f.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/b711f65d537a867a47c4232d7ff855.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/b7c2a549acea44cdeba1c7014d4ea9.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/b83bb7b205c03136b0571ece317ff0.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/b28d3b1715e6347a6e68e5bce6e55f.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/bbfa5dad4ffff5150370ac0f68f8f9.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/bf15b50b829ec35d5fb68766efb910.webp" width="64" alt="Telegram emoji" />
-<img src="symbols/c07d125d39a7e0cd1449373a6329b8.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/c32514788e166754e32f358ae50a63.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/c997973908c74319229787d3d0c748.webp" width="64" alt="Telegram emoji" />
 <img src="symbols/ce1ee68a61809f3f3adb935f1437ae.webp" width="64" alt="Telegram emoji" />
+
 <img src="symbols/feb67eb5ea29240b96df2f6676c03e.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/c07d125d39a7e0cd1449373a6329b8.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/b83bb7b205c03136b0571ece317ff0.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/8bbee7a8432ded65e875e52ab6331d.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/789e28fe00cf055bc31b52e46c0e11.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/bf15b50b829ec35d5fb68766efb910.webp" width="64" alt="Telegram emoji" />
+
+<img src="symbols/37c5eb6db60e2a86bb0019c8495d78.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/55ccb7d9c71b8610f0dd322da730f4.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/75c4619e05b79ee3fba28504927fd4.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/181bbf67b6b553704f099658d8b12b.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/1ca7e28dae45745424eb089583472a.webp" width="64" alt="Telegram emoji" />
+
+<img src="symbols/4585d0fd8c99496114cffb16c72e41.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/a545faca9de7fea054cffec52bfaf3.webp" width="64" alt="Telegram emoji" />
+
+<img src="symbols/3c626925499ce0a455bcdd651cf3b0.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/4c0d6dc0fb0bb61b7e707f02490be2.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/9d57fdebb80e1e4cd820a07e2109c0.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/605a5f4833ed7b6cea70edf7920a52.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/b711f65d537a867a47c4232d7ff855.webp" width="64" alt="Telegram emoji" />
+
+<img src="symbols/606907e98c2863461c97f3675b9491.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/9db9e099d79c15a064797f33d3d1bc.webp" width="64" alt="Telegram emoji" />
+<img src="symbols/a7a789e52c5edf74557b9336dd3375.webp" width="64" alt="Telegram emoji" />
 </p>
 
 ### travel_places

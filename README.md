@@ -58,7 +58,6 @@ Browse the entire collection below. All images are displayed directly from their
 <img src="utya_duck/37.webp" width="64" alt="Telegram emoji" />
 <img src="utya_duck/38.webp" width="64" alt="Telegram emoji" />
 <img src="utya_duck/39.webp" width="64" alt="Telegram emoji" />
-<img src="utya_duck/40.webp" width="64" alt="Telegram emoji" />
 </p>
 
 ### activities
